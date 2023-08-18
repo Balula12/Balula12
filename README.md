@@ -1,9 +1,16 @@
 ## Olá! Eu sou o Gustavo Balula
 
-- 🔭 Hoje trabalho como repositor em mercado.
-- 🌱 Estudando Desenvolvimento Full Stack | Front-End | Back-End | Java | Javascript | HTML
+<p align="center">
+  <img alt="UHULL" height="200em" src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif">
+  <img alt="Kimetsu" height="200cm" src="https://media.giphy.com/media/VEzYdo930nTiTuVeMU/giphy-downsized.gif">
+</p>
+
+
+- 🔭 Estou em busca da minha primeira Experiência como Estagiário de TI
+- 🔍 Estudando Desenvolvimento Full Stack | Front-End | Back-End | Java | Javascript | HTML
 - 📫 Contate-me no email: contatogubalula@gmail.com
-- 😄 Pronouns: ele/dele
+- 🌎 Inglês Nivel Intermediário
+
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=balula12&show_icons=true&theme=dracula&count_private=true)
@@ -13,7 +20,7 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<iframe src="https://giphy.com/embed/26BRzozg4TCBXv6QU" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/inpulsedm-26BRzozg4TCBXv6QU">via GIPHY</a></p>
+
 </div>
 
 ##
