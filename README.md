@@ -7,7 +7,7 @@
 
 
 - 🔭 Estou em busca da minha primeira Experiência como Estagiário de TI
-- 🔍 Estudando Desenvolvimento Web | React | Node.js | Typescript | Javascript | HTML | CSS
+- 🔍 Desenvolvedor Web Jr | React | Node.js | Typescript | Javascript | HTML | CSS
 - 📫 Contate-me no email: contatogubalula@gmail.com
 - 🌎 Inglês Nivel Intermediário
 
