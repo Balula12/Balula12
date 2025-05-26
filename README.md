@@ -11,9 +11,9 @@
 
 <div align="center">
 
-   🔭 Estou trabalhando atualmente em uma Pokedex com APIs
+   🔭 Estou trabalhando atualmente na ggCheckout
     
-   🌱 Estou estudando atualmente JavaScript, HTML, CSS, & APIrest
+   🌱 Estou Atuando com React, Next, Tailwind, & Firebase
     
    ⚡ Fato engraçado e aleatório sobre mim, Harry Potter é minha série de filmes favorita
 
