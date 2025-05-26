@@ -42,13 +42,3 @@
         <img src="https://skillicons.dev/icons?i=python,linux,git,github,html,css,vscode,figma,mysql">
     </a>
 </div>
-
-<div align="center">
-    <h2>🐍 My Contributions 🐍</h2>
-    <br>
-    <img 
-    alt="cobra comendo meus commit" 
-    src="https://raw.githubusercontent.com/balula12/snk/output/github-contribution-grid-snake-dark.svg">
-
-  <br/><br/><br/>
-</div>
