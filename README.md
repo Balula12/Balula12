@@ -116,14 +116,6 @@ const gustavo = {
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Balula12/Balula12/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 <div align="center">
   <h3>💙 Obrigado por visitar meu perfil!</h3>
   <p>⭐ Se você gostou de algum dos meus projetos, considere dar uma estrela!</p>
