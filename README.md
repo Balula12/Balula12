@@ -135,8 +135,6 @@ const gustavo = {
 <div align="center">
   <h3>💙 Obrigado por visitar meu perfil!</h3>
   <p>⭐ Se você gostou de algum dos meus projetos, considere dar uma estrela!</p>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Balula12/count.svg)
-  
+
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
