@@ -91,7 +91,7 @@ const gustavo = {
 - 🔭 **Trabalhando atualmente**: Desenvolvendo soluções inovadoras na **ggCheckout**
 - 🌱 **Aprendendo**: Next.js 14, TypeScript avançado, e arquiteturas modernas
 - 👯 **Buscando colaborar**: Projetos open-source em React e Node.js
-- 🥅 **Meta 2024**: Contribuir mais para a comunidade open-source
+- 🥅 **Meta 2025**: Contribuir mais para a comunidade open-source
 - ⚡ **Curiosidade**: Quando não estou codando, estou assistindo Harry Potter pela enésima vez! 🧙‍♂️
 
 ---
