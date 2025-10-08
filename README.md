@@ -86,14 +86,6 @@ const gustavo = {
 
 ---
 
-## 📊 Atividade de Contribuição
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?Balula12&theme=tokyo-night&bg_color=0d1117&color=53DBF7&line=53DBF7&point=c9d1d9&area=true&hide_border=true" />
-</div>
-
----
-
 ## 🎯 Objetivos Atuais
 
 - 🔭 **Trabalhando atualmente**: Desenvolvendo soluções inovadoras na **ggCheckout**
