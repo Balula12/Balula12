@@ -86,28 +86,6 @@ const gustavo = {
 
 ---
 
-## 🏆 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/seu-usuario/projeto1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=53DBF7&text_color=c9d1d9&icon_color=53DBF7" />
-  </a>
-  <a href="https://github.com/seu-usuario/projeto2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=53DBF7&text_color=c9d1d9&icon_color=53DBF7" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/seu-usuario/projeto3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=53DBF7&text_color=c9d1d9&icon_color=53DBF7" />
-  </a>
-  <a href="https://github.com/seu-usuario/projeto4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=53DBF7&text_color=c9d1d9&icon_color=53DBF7" />
-  </a>
-</div>
-
----
-
 ## 📊 Atividade de Contribuição
 
 <div align="center">
@@ -149,7 +127,7 @@ const gustavo = {
 ## 🐍 Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/Balula12/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Balula12/Balula12/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
