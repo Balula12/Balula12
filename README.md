@@ -39,12 +39,12 @@ const gustavo = {
 ## 🚀 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=53DBF7&text_color=c9d1d9&icon_color=53DBF7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=53DBF7&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balula12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=53DBF7&text_color=c9d1d9&icon_color=53DBF7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balula12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=53DBF7&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=seu-usuario&theme=tokyonight&hide_border=true&background=0d1117&stroke=53DBF7&ring=53DBF7&fire=53DBF7&currStreakLabel=53DBF7&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9"/>
+  <img src="https://github-readme-streak-stats.vercel.app?user=Balula12&theme=tokyonight&hide_border=true&background=0d1117&stroke=53DBF7&ring=53DBF7&fire=53DBF7&currStreakLabel=53DBF7&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9"/>
 </div>
 
 ---
@@ -111,7 +111,7 @@ const gustavo = {
 ## 📊 Atividade de Contribuição
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=tokyo-night&bg_color=0d1117&color=53DBF7&line=53DBF7&point=c9d1d9&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?Balula12&theme=tokyo-night&bg_color=0d1117&color=53DBF7&line=53DBF7&point=c9d1d9&area=true&hide_border=true" />
 </div>
 
 ---
@@ -132,8 +132,7 @@ const gustavo = {
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatogubalula@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-balula-aa61b3243/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-instagram)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gugaa_balula)
   
 </div>
 
@@ -150,7 +149,7 @@ const gustavo = {
 ## 🐍 Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/seu-usuario/Balula12/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -159,7 +158,7 @@ const gustavo = {
   <h3>💙 Obrigado por visitar meu perfil!</h3>
   <p>⭐ Se você gostou de algum dos meus projetos, considere dar uma estrela!</p>
   
-  ![Visitor Count](https://profile-counter.glitch.me/seu-usuario/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/Balula12/count.svg)
   
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
