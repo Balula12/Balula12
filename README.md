@@ -115,7 +115,7 @@ const gustavo = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=Balula12&theme=tokyonight&hide_border=true&background=0d1117&stroke=53DBF7&ring=53DBF7&fire=53DBF7&currStreakLabel=53DBF7&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Balula12&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
 </div>
 
 ---
