@@ -91,10 +91,11 @@ const gustavo = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Pagamentos
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logoColor=white)
 ![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)
 ![PIX](https://img.shields.io/badge/PIX-32BCAD?style=for-the-badge&logo=pix&logoColor=white)
-![Pagar.me](https://img.shields.io/badge/Pagar.me-65B441?style=for-the-badge&logo=pagarme&logoColor=white)
+![Pagar.me](https://img.shields.io/badge/Pagar.me-65B441?style=for-the-badge&logoColor=white)
+![EfiBank](https://img.shields.io/badge/EfiBank-FF6B00?style=for-the-badge&logoColor=white)
 
 #### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -115,7 +116,7 @@ const gustavo = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Balula12&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Balula12&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=53DBF7&line=53DBF7&point=FFFFFF&area=true&area_color=53DBF7"/>
 </div>
 
 ---
